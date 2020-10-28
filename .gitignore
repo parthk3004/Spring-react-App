@@ -13,4 +13,6 @@
 /app-frontend/node-modules
 /app-frontend/package-lock.json
 
+/frontend-2
+
 /react-frontend
