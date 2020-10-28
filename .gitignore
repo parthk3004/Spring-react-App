@@ -1,0 +1,16 @@
+/.metadata
+
+/spring-data-jpa-cruddemo/.mvn
+/spring-data-jpa-cruddemo/.settings
+/spring-data-jpa-cruddemo/target
+/spring-data-jpa-cruddemo/.classpath
+/spring-data-jpa-cruddemo/.project
+/spring-data-jpa-cruddemo/mvnw
+/spring-data-jpa-cruddemo/mvnw.cmd
+
+/24-spring-data-rest-cruddemo
+
+/app-frontend/node-modules
+/app-frontend/package-lock.json
+
+/react-frontend
